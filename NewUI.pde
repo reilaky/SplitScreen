@@ -1,3 +1,5 @@
+// split three screen
+// show different content, one jpg, one video and on processing rendering
 import peasy.PeasyCam;
 import processing.video.*;
 PGraphics skeletonModel;
